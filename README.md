@@ -1,6 +1,6 @@
 # Fault-Tolerant
-A fault tolerant system that get input from user and find the most-repeated data in sensors.
-Implemented parallel search by fork and assigning processes to files for each sensor in database.
+A fault tolerant system that get number of sensor from user and by using pipe for data transfer and doing parallel search in database find the most-repeated data in that sensor.  
+Implemented by fork and assigning processes to files for each sensor in database.
 
 ### Running
 Run the below codes in two seperate terminals.

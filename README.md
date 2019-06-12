@@ -3,7 +3,7 @@ A fault tolerant system that get number of sensor from user and by using pipe fo
 Implemented by fork and assigning processes to files for each sensor in database.
 
 ### Running
-Run the below codes in two seperate terminals.
+Run the below commands in two seperate terminals.
 ```
 g++ loadbalancer-worker.cpp -o  && ./loadbalancer-worker
 ```
